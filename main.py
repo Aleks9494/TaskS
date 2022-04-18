@@ -1,4 +1,4 @@
-from math import factorial
+
 def pascal(n):
     list1=[]
     list1.append(1)
