@@ -33,6 +33,3 @@ def pascal(n):
         list1.extend(list2)
         return list1
 
-
-x = int(input())
-print(pascal(x))
